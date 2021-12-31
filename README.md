@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jnrlouis
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning data analysis, machine learning and neural netwroks
-- 💞️ I’m looking to collaborate on more data science projects
+- 👀 I’m interested in Blockchain Development and Data science
+- 🌱 I’m currently learning Solidity, Web3js, machine learning and neural netwroks
+- 💞️ I’m excited to work on Blockchain related projects
 - 📫 Reach me via email: chibuezelouis@gmail.com
 
 <!---
