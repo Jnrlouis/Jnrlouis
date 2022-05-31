@@ -1,7 +1,7 @@
 ### About
 
 - 👋 Hi, I’m @Jnrlouis
-- 👀 I’m interested in Solidity Contract Development and Data science
+- 👀 I’m interested in Smart Contract Development
 - 🌱 I’m currently learning Solidity, Ethersjs, rust, circom, machine learning and neural networks
 - 💞️ I’m very excited to work on Blockchain related projects
 - 📫 Reach me via email: chibuezelouis@gmail.com
